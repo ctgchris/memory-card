@@ -1,0 +1,40 @@
+hr {
+  margin: 0;
+  border: none;
+  height: 0.1rem;
+  width: 100%;
+  background: lightslategray;
+}
+
+.pokecard {
+  border: 2px solid lightslategray;
+  width: 6rem;
+  background: lightblue;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.pokecard > h3 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.9rem;
+  color: black;
+}
+
+@media only screen and (min-width: 700px) {
+  .pokecard {
+    width: 10rem;
+    transition: all 0.2s ease-in-out;
+  }
+
+  .pokecard:hover {
+    transform: scale(1.1);
+  }
+
+  .pokecard > h3 {
+    font-size: 1.2rem;
+  }
+}
