@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.52cf0e0a.css",
+    "main.js": "/memory-card/static/js/main.08fc589b.js",
+    "static/media/Pokemon.ttf": "/memory-card/static/media/Pokemon.5d60be1f7ff5fcc21fc1.ttf",
+    "index.html": "/memory-card/index.html",
+    "main.52cf0e0a.css.map": "/memory-card/static/css/main.52cf0e0a.css.map",
+    "main.08fc589b.js.map": "/memory-card/static/js/main.08fc589b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52cf0e0a.css",
+    "static/js/main.08fc589b.js"
+  ]
+}
