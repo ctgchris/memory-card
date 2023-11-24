@@ -7,7 +7,7 @@
 
 ## About <a name = "about"></a>
 
-Poke-A-Card is a memory card game where you chose a pokemon that you have not chosen before. The game is over when you chose a pokemon you've already chosen before. This app was built as a challenge in the React section of The Odin Project's full stack curriculum.
+Poke-A-Card is a memory card game where you chose a pokemon that you have not chosen before. The game is over when you chose a pokemon you've already chosen before.
 
 [Link to application](https://ctgchris.github.io/memory-card)
 
